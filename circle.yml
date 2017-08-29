@@ -3,4 +3,4 @@ dependencies:
       - pip install pytest
 test:
    override:
-      - pytest test.py
+      - pytest test_sprint.py
